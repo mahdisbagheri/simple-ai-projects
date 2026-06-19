@@ -1,0 +1,38 @@
+===== FINAL RESULT WITH HEURISTIC manhattan_distance  =====
+Status: Path found successfully.
+Total swaps: 26
+Generated nodes: 7025
+Expanded nodes: 2628
+Space complexity: 4048
+
+Move sequence:
+['left', 'up', 'up', 'right', 'down', 'down', 'right', 'up', 'up', 'left', 'down', 'down', 'left', 'up', 'right', 'right', 'down', 'left', 'up', 'right', 'up', 'left', 'left', 'down', 'down', 'right']
+
+Swap details:
+swap zero with tile 3 at position (2,0)
+swap zero with tile 4 at position (1,0)
+swap zero with tile 7 at position (0,0)
+swap zero with tile 2 at position (0,1)
+swap zero with tile 5 at position (1,1)
+swap zero with tile 3 at position (2,1)
+swap zero with tile 1 at position (2,2)
+swap zero with tile 6 at position (1,2)
+swap zero with tile 8 at position (0,2)
+swap zero with tile 5 at position (0,1)
+swap zero with tile 3 at position (1,1)
+swap zero with tile 1 at position (2,1)
+swap zero with tile 4 at position (2,0)
+swap zero with tile 7 at position (1,0)
+swap zero with tile 1 at position (1,1)
+swap zero with tile 8 at position (1,2)
+swap zero with tile 6 at position (2,2)
+swap zero with tile 4 at position (2,1)
+swap zero with tile 8 at position (1,1)
+swap zero with tile 6 at position (1,2)
+swap zero with tile 5 at position (0,2)
+swap zero with tile 3 at position (0,1)
+swap zero with tile 2 at position (0,0)
+swap zero with tile 1 at position (1,0)
+swap zero with tile 7 at position (2,0)
+swap zero with tile 8 at position (2,1)
+========================
